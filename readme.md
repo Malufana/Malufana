@@ -24,24 +24,21 @@ Olá, eu sou a Ana Maluf, tenho 19 anos e adoro programação! Moro em Campinas/
 
 - 💬 Pergunte-me sobre o que tiver duvida
 
-- ⚡ Curiosidade: 
+- ⚡ Curiosidade: Curso Licenciatura em Matemática na Unicamp
 
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
-<code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> </code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/> </code>
-<code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
           
-          
-          
+              
 ## Contatos:
 
-📫 Você pode falar comigo pelo [Email](mailto:dorival.jrr@gmail.com) ou pelo [Linkedin](https://www.linkedin.com/in/dorival-alves-804558127/) 
+📫 Você pode falar comigo pelo [Email](mailto:anaaurelio-maluf@hotmail.com) ou pelo [Linkedin](https://www.linkedin.com/in/ana-beatriz-maluf-386a5928a/) 
 </br>
 
 
@@ -59,10 +56,4 @@ Olá, eu sou a Ana Maluf, tenho 19 anos e adoro programação! Moro em Campinas/
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-avan%C3%A7ado-green)
-![Graduação](https://img.shields.io/badge/Gradua%C3%A7%C3%A3o_Ciencia_da_Computa%C3%A7%C3%A3o-UNICAMP-green)
-![EmpregoAtual](https://img.shields.io/badge/Professor-SENAI-green)
-
-
-
-![Snake animation](https://github.com/Dorivis/Dorivis/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MAlufana/Malufana/blob/output/github-contribution-grid-snake.svg)
