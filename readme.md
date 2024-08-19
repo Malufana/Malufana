@@ -16,12 +16,15 @@
 
 Olá, eu sou a Ana Maluf, tenho 19 anos e adoro programação! Moro em Campinas/SP e estou aprendendo sobre programação desde 2021, procuro me desenvolver cada dia mais!
 
-- 👨‍🎓 Sou formada em técnica de Informática pelo IFSP e estou cursando técnico em Desenvolvimento de Sistemas pelo SENAI
-- 📚 Estudo sobre assuntos diversos de Ciência de Dados
-- 👯 Estou procurando colaborar em desenvolver meus alunos e em aprimorar meus conhecimentos em Ciencia de Dados
-- 🤔 Estou procurando algum cargo como Cientista de Dados
-- 💬 Pergunte-me sobre o que tiver duvida.
-- ⚡ Curiosidade: Sou nascido no Japão, mas não tenho nacionalidade brasileira
+- 🎓 Sou formada em técnica de Informática pelo IFSP e estou cursando técnico em Desenvolvimento de Sistemas pelo SENAI
+
+- 👩🏾‍💻 Trabalho como Aprendiz na Bosch Campinas
+
+- 💾 Tenho interesse na área de BackEnd e na Análise de Dados 
+
+- 💬 Pergunte-me sobre o que tiver duvida
+
+- ⚡ Curiosidade: 
 
 
 ### 🖥️ Tecnologias e Ferramentas: 
