@@ -56,4 +56,4 @@ Olá, eu sou a Ana Maluf, tenho 19 anos e adoro programação! Moro em Campinas/
 
 <br/>
 
-![Snake animation](https://github.com/MAlufana/Malufana/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Malufana/Malufana/blob/output/github-contribution-grid-snake.svg)
