@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Malufana">
-    <img src="anamaluf.gif" height="250" width="500" alt="Unform" />
+    <img src="anamaluf.gif" alt="Unform" />
   </a>
 </p>
 
