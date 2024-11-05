@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Malufana">
-    <img src="anamaluf.gif" alt="Unform" />
-  </a>
+  <img src="anamaluf.gif" alt="Unform" />
 </p>
 
 <div dsplay="inline-block">
