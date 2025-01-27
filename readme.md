@@ -12,7 +12,7 @@
 
 ## Um pouquinho sobre mim
 
-Olá, eu sou a Ana Maluf, tenho 19 anos e adoro programação! Moro em Campinas/SP e estou aprendendo sobre programação desde 2021, procuro me desenvolver cada dia mais!
+Olá, eu sou a Ana Maluf, tenho 20 anos e adoro programação! Moro em Campinas/SP e estou aprendendo sobre programação desde 2021, procuro me desenvolver cada dia mais!
 
 - 🎓 Sou formada em técnica de Informática pelo IFSP e estou cursando técnico em Desenvolvimento de Sistemas pelo SENAI
 
