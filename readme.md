@@ -21,13 +21,13 @@
 ### 🖥️ Tecnologias e Ferramentas: 
 
 <code><img  width="40px" src="https://img.icons8.com/?size=80&id=YX03OUiHE3rz&format=png" title="python"/></code>
-<code><img  width="40px" src="https://img.icons8.com/?size=48&id=13679&format=png" title="java"/></code>
-<code><img  width="40px" src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" title="html"/></code>
-<code><img  width="40px" src="https://cdn-icons-png.flaticon.com/128/732/732190.png" title="css"/></code>
-<code><img  width="40px" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" title="javascript"/></code>
+<code><img  width="40px" src="https://img.icons8.com/?size=80&id=13679&format=png" title="java"/></code>
+<code><img  width="40px" src="https://img.icons8.com/?size=80&id=20909&format=png" title="html"/></code>
+<code><img  width="40px" src="https://img.icons8.com/?size=80&id=7gdY5qNXaKC0&format=png" title="css"/></code>
+<code><img  width="40px" src="https://img.icons8.com/?size=80&id=108784&format=png" title="javascript"/></code>
 <br>
-<code><img  width="40px" src="https://cdn-icons-png.flaticon.com/128/9307/9307630.png" title="django"/></code>
-<code><img  width="40px" src="https://cdn-icons-png.flaticon.com/128/10828/10828578.png" title="react"/></code>
+<code><img  width="40px" src="https://img.icons8.com/?size=80&id=IuuVVwsdTi2v&format=png" title="django"/></code>
+<code><img  width="40px" src="https://img.icons8.com/?size=80&id=asWSSTBrDlTW&format=png" title="react"/></code>
 <code><img  width="40px" src="" title=""/></code>
 <br>
 
