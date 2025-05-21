@@ -48,7 +48,7 @@
               
 ## Contatos:
 
-📫 Você pode falar comigo pelo [Email](mailto:anaaurelio-maluf@hotmail.com) ou pelo [Linkedin](https://www.linkedin.com/in/ana-beatriz-maluf-386a5928a/) 
+📫 Você pode falar comigo pelo ✉ [Email](mailto:anaaurelio-maluf@hotmail.com) ou pelo 🪪 [Linkedin](https://www.linkedin.com/in/ana-beatriz-maluf-386a5928a/) 
 
 
 
