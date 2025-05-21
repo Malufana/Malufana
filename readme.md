@@ -28,9 +28,19 @@
 <br>
 <code><img  width="40px" src="https://img.icons8.com/?size=80&id=IuuVVwsdTi2v&format=png" title="django"/></code>
 <code><img  width="40px" src="https://img.icons8.com/?size=80&id=asWSSTBrDlTW&format=png" title="react"/></code>
-<code><img  width="40px" src="" title=""/></code>
+<code><img  width="40px" src="https://img.icons8.com/?size=80&id=l9a5tcSnBwcf&format=png" title="angular"/></code>
+<code><img  width="40px" src="https://img.icons8.com/?size=80&id=eETV3RNHVrWA&format=png" title="vue"/></code>
+<code><img  width="40px" src="https://img.icons8.com/?size=80&id=Xf1sHBmY73hA&format=png" title="typescript"/></code>
 <br>
-
+<code><img  width="40px" src="https://img.icons8.com/?size=80&id=7AFcZ2zirX6Y&format=png" title="dart"/></code>
+<code><img  width="40px" src="https://img.icons8.com/?size=80&id=pCvIfmctRaY8&format=png" title="flutter"/></code>
+<code><img  width="40px" src="https://img.icons8.com/?size=48&id=90519&format=png" title="spring"/></code>
+<code><img  width="40px" src="https://img.icons8.com/?size=80&id=UFXRpPFebwa2&format=png" title="mysql"/></code>
+<code><img  width="40px" src="https://img.icons8.com/?size=80&id=plPz67QUdeWA&format=png" title="php"/></code>
+<br>
+<code><img width="40px" src="https://img.icons8.com/?size=80&id=CIAZz2CYc6Kc&format=png" title="tailwind"/></code>
+<code><img width="40px" src="https://img.icons8.com/?size=48&id=VLKafOkk3sBX&format=png" title="azure"/></code>
+<br>
               
 ## Contatos:
 
