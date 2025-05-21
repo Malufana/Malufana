@@ -18,7 +18,7 @@
 
 - 💬 Pergunte sobre o que tiver duvida
 
-### 🖥️ Tecnologias e Ferramentas: 
+## 🖥️ Tecnologias e Ferramentas: 
 <br>
 <code><img  width="40px" src="https://img.icons8.com/?size=80&id=YX03OUiHE3rz&format=png" title="python"/></code>
 <code><img  width="40px" src="https://img.icons8.com/?size=80&id=13679&format=png" title="java"/></code>
