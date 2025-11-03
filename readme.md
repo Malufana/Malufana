@@ -12,11 +12,11 @@
 
 - 🎓 Formada em técnica de Desenvolvimento de Sistemas pelo SENAI
 
-- 👩🏾‍💻 Trabalha como Aprendiz na Bosch Campinas
+- 👩🏾‍💻 Trabalha como Meio Oficial na Bosch Campinas
 
 - 💾 Interesse na área de BackEnd, Análise de Dados e Inteligência Artificial
 
-- 💬 Pergunte sobre o que tiver duvida
+- 💬 Pergunte sobre o que tiver duvida!
 
 ## 🖥️ Tecnologias e Ferramentas: 
 <br>
